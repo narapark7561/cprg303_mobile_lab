@@ -1,6 +1,6 @@
 import React from "react";
 import { View, StyleSheet } from "react-native";
-import App from "../components/app"; // App 컴포넌트를 불러오는 부분
+import App from "../components/app"; 
 
 export default function Page() {
   return (
